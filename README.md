@@ -1,6 +1,6 @@
 # Dnotebook Documentation
 
-Danfo Notebook \(Dnotebook\) is an open-source project, born out of the need to perform quick and interactive experimentation/prototyping with [Danfo.js](https://danfo.jsdata.org/). Dnotebook is a similar to the popular [Jupyter Notebook](https://jupyter.org/) but is customized for the JavaScript environment. Dnotebook is part of our grand vision at [JSdata](https://github.com/opensource9ja) to bring more Data Science and Machine Learning tools to the JavaScript ecosystem.
+Danfo Notebook \(Dnotebook\) is an open-source project, born out of the need to perform quick and interactive experimentation/prototyping with [Danfo.js](https://danfo.jsdata.org/). Dnotebook is similar to the popular [Jupyter Notebook](https://jupyter.org/) but is customized for the JavaScript environment. It is a part of our grand vision at [JSdata](https://github.com/opensource9ja) to bring more Data Science and Machine Learning tools to the JavaScript ecosystem.
 
 ## What can it be used for?
 
