@@ -11,18 +11,22 @@ To install Dnotebooks, you must have Node.js installed. If you do not have it, f
 Once Node.js is installed, you can install Dnotebook by running the command below on a terminal:
 
 ```text
-npm install dnotebook
+npm install -g dnotebook
 ```
+
+{% hint style="info" %}
+It is recommended to install **dnotebook** globally. This makes it easy to start the server from anywhere.
+{% endhint %}
 
 ## Running Dnotebook
 
-Also, in your open terminal, you can run the command:
+After installation, in your open terminal run the command:
 
 ```text
 dnotebook
 ```
 
-which will open a new tab in your default web browser pointing to http://localhost:4400. It should look like the screenshot below:
+This will open a new tab in your default web browser pointing to **http://localhost:4400**. It should look like the screenshot below:
 
 ![](.gitbook/assets/screen-shot-2020-08-23-at-1.22.59-pm.png)
 
