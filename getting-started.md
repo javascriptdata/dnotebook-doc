@@ -15,8 +15,10 @@ npm install -g dnotebook
 ```
 
 {% hint style="info" %}
-It is recommended to install **dnotebook** globally. This makes it easy to start the server from anywhere.
+It is recommended to install D**notebook** globally. This makes it easy to start the server from anywhere.
 {% endhint %}
+
+You can use Dnotebook online without any installation. Check out our playground [here](https://playnotebook.jsdata.org/demo).
 
 ## Running Dnotebook
 
@@ -331,7 +333,7 @@ for(let i=0; i<10; i++){
 
 ## Extra Links:
 
-* Play with the getting started notebook here.
+* Play with Dnotebook without installation [here](https://playnotebook.jsdata.org/demo).
 
 
 
