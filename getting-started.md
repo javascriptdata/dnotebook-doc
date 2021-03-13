@@ -103,7 +103,7 @@ For example, if you load packages or declare variables in one cell, they will be
 //load package downloads and install any JavaScript package via its CDN
 
 load_package(["https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest",
-              "https://cdn.jsdelivr.net/npm/danfojs@0.1.1/dist/index.min.js"])
+              "https://cdn.jsdelivr.net/npm/danfojs@0.2.4/dist/index.min.js"])
 ```
 
 {% hint style="info" %}
